@@ -1,16 +1,16 @@
 1.
 
 <!DOCTYPE html>
-<html>
+< html>
     <head>
        
-    </head>
-<body>
+    </ head>
+< body>
 
 
-</body>
-</html>
+</ body>
+</ html>
 
 2.
 
-<link rel="stylesheet" type="text/css" href="style.css"/> 
+< link rel="stylesheet" type="text/css" href="style.css"/> 
